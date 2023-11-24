@@ -1,3 +1,4 @@
+//go:build calibnet
 // +build calibnet
 
 package build
@@ -17,7 +18,7 @@ var calibnetMinerStrs = []string{
 	"t01767",
 	"t018209",
 	"t036820",
-	"t033430"
+	"t033430",
 }
 
 var defaultCalibnetDatabaseValue = "sqlite=estuary_calibnet.db"
