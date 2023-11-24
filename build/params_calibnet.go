@@ -11,6 +11,13 @@ var calibnetMinerStrs = []string{
 	"t03112",
 	"t03149",
 	"t01247",
+	"t037612",
+	"t01433",
+	"t033523",
+	"t01767",
+	"t018209",
+	"t036820",
+	"t033430"
 }
 
 var defaultCalibnetDatabaseValue = "sqlite=estuary_calibnet.db"
